@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yytaxi.github.io/wangmeijuzhu/sitemap.xml
